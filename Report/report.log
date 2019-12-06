@@ -1,0 +1,28 @@
+
+
+Testing of C:\Users\Anton_Birytski\PycharmProjects\HT_2\test_cases\tests.json was started
+
+
+Test case 'Num_of_paragraph in 'tBooks''
+Query: SELECT Num_of_paragraph FROM 'tBooks'
+TEST PASS: Result is '2259' as expected
+
+Test case 'Num_of_words in 'tBooks''
+Query: SELECT Num_of_words FROM 'tBooks'
+TEST PASS: Result is '61019' as expected
+
+Test case 'Num_of_letters in 'tBooks''
+Query: SELECT Num_of_letters FROM 'tBooks'
+TEST PASS: Result is '296036' as expected
+
+Test case 'Num_capital_words in 'tBooks''
+Query: SELECT Num_capital_words FROM 'tBooks'
+TEST PASS: Result is '8341' as expected
+
+Test case 'Num_lowercase_words in 'tBooks''
+Query: SELECT Num_lowercase_words FROM 'tBooks'
+TEST PASS: Result is '52678' as expected
+
+Test case 'Test 'tStatisticsBookId1''
+Query: SELECT max(Words_cnt) FROM 'tStatisticsBookId_1'
+TEST PASS: Result is '2415' as expected

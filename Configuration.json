@@ -1,0 +1,9 @@
+{
+  "QA": {
+    "database": "C:\\Users\\Anton_Birytski\\PycharmProjects\\HT_2\\Book_db.db",
+    "test_case_folder": "C:\\Users\\Anton_Birytski\\PycharmProjects\\HT_2\\test_cases"
+  },
+  
+  "next": {
+    }  
+}
